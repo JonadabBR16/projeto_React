@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Amanda",
+      "email": "Amanda.estudante@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Alice",
+      "email": "alice.estudante@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Vitoria",
+      "email": "vitoria.estudante@gmail.com"
+    },
+    {
+      "id": "ef8b",
+      "name": "Jonadab Gabriel M. Alves da Silva",
+      "email": "jonadabgabriel@gmail.com"
+    }
+  ]
+}
